@@ -3,7 +3,9 @@ NEVER FORGET https://www.youtube.com/watch?v=y6120QOlsfU
 #Planen
 
 * Alle møter har løpende referat i etherpad (som https://oasis.sandstorm.io/), etter møtet eksporterer vi det til markdown og laster opp i Sandstorm-repoet. (Da har vi loggingen av møter ordnet.)
+ * Så langt det er mulig skal presentasjoner enten linkes i det dokumentet og/eller legges under maptimeOSL på GitHub. 
 * Kommende møter annonseres i Meetup som før siden mange er medlem der.
+* Møter skal holdes annenhver måned, og datoer bør fastsettes tre møter frem i tid, helst med innhold.
 * Det opprettes en felles gmail for maptimeOSL som er ansvarlig for Twitter osv., slik at det kan sendes videre til andre.
 
 
