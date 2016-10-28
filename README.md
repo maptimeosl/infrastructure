@@ -22,4 +22,11 @@ Planning MaptimeOSL's infrastructure
 * Minste mulig vedlikehold
 * Spredt over færrest mulig steder
 * Gratis eller veldig billig
-* Felles tilgang til administratorer
+
+##Kostnader
+Per i dag:
+* Meetup, 5 $ i måneden (50 kr i måneden)
+* Medlemsavgift på bitraf, 300 i måneden
+* Pizza dekkes av Carto ut April 2017 ihvertfall
+
+Det kan være greit å be om små bidrag fra deltagerne for å dekke utgifter. Ti kroner fra hver burde rekke langt.
