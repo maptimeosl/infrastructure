@@ -15,6 +15,7 @@ Planning MaptimeOSL's infrastructure
 * Blog-funksjonalitet
  * Hva kommer på møte Y (Meetupene dekker mye av dette)
  * Hva har skjedd på møte X (Dekkes ikke av meetups)
+ * Arkiv av tidligere materiale (github)
 * Tweets (Har blitt brukt for å dokumentere møter litt)
 * Godt vedlikehold: https://docs.google.com/document/d/1OJeQK77DSUpUQd767Ix9N0uXHgECpSPLnXucP6Tecm8/edit Vi bør lære av dette, kanskje lage et manifest.
 
