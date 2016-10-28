@@ -44,4 +44,5 @@ Det kan være greit å be om små bidrag fra deltagerne for å dekke utgifter. T
 
 ## Worklog
 * Opprettet maptimeosl@gmail.com - Hint: Robert og Lasse har pass, deler gjerne.
+* Satt MaptimeOSL-twitterkonto med login: maptimeosl@gmail.com passord ^
 * 
