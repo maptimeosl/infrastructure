@@ -17,3 +17,8 @@ Planning MaptimeOSL's infrastructure
  * Hva har skjedd på møte X (Dekkes ikke av meetups)
 * Tweets (Har blitt brukt for å dokumentere møter litt)
 * Godt vedlikehold: https://docs.google.com/document/d/1OJeQK77DSUpUQd767Ix9N0uXHgECpSPLnXucP6Tecm8/edit
+
+## Suksesskriterier
+* Minste mulig vedlikehold
+* Spredt over færrest mulig steder
+* Gratis eller veldig billig
