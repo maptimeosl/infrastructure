@@ -43,5 +43,5 @@ Per i dag:
 Det kan være greit å be om små bidrag fra deltagerne for å dekke utgifter. Ti kroner fra hver burde rekke langt.
 
 ## Worklog
-* Opprettet maptimeosl@gmail.com
+* Opprettet maptimeosl@gmail.com - Hint: Robert og Lasse har pass, deler gjerne.
 * 
