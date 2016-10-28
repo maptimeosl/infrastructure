@@ -1,5 +1,13 @@
 NEVER FORGET https://www.youtube.com/watch?v=y6120QOlsfU
 
+#Planen
+
+* Alle møter har løpende referat i etherpad (som https://oasis.sandstorm.io/), etter møtet eksporterer vi det til markdown og laster opp i Sandstorm-repoet. (Da har vi loggingen av møter ordnet.)
+* Kommende møter annonseres i Meetup som før siden mange er medlem der.
+* Det opprettes en felle gmail for maptimeOSL som er ansvarlig for Twitter osv., slik at det kan sendes videre til andre.
+
+
+-------------------
 # infrastructure
 Planning MaptimeOSL's infrastructure
 
