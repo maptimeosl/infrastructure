@@ -1,4 +1,4 @@
-https://www.youtube.com/watch?v=y6120QOlsfU
+NEVER FORGET https://www.youtube.com/watch?v=y6120QOlsfU
 
 # infrastructure
 Planning MaptimeOSL's infrastructure
