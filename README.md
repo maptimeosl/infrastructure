@@ -22,3 +22,4 @@ Planning MaptimeOSL's infrastructure
 * Minste mulig vedlikehold
 * Spredt over færrest mulig steder
 * Gratis eller veldig billig
+* Felles tilgang til administratorer
