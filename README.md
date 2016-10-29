@@ -6,7 +6,7 @@ NEVER FORGET https://www.youtube.com/watch?v=y6120QOlsfU
  * Så langt det er mulig skal presentasjoner enten linkes i det dokumentet og/eller legges under maptimeOSL på GitHub. 
 * Kommende møter annonseres i Meetup som før siden mange er medlem der.
 * Møter skal holdes annenhver måned, og datoer bør fastsettes tre møter frem i tid, helst med innhold. Etter hvert møte setter vi dato og tema for et møte til.
-* Det opprettes en felles gmail for maptimeOSL som er ansvarlig for Twitter osv., slik at det kan sendes videre til andre.
+* Mindre personavhengighet: Det opprettes en felles gmail for maptimeOSL som er ansvarlig for Twitter osv., slik at det kan sendes videre til andre. Se også http://maptime.io/blog/2016/10/13/so-long-and-thanks-for-all-the-maps/ 
 
 
 -------------------
@@ -44,7 +44,10 @@ Per i dag:
 
 Det kan være greit å be om små bidrag fra deltagerne for å dekke utgifter. Ti kroner fra hver burde rekke langt.
 
-## Worklog
+# Worklog
 * Opprettet maptimeosl@gmail.com - Hint: Robert og Lasse har pass, deler gjerne.
 * Satt MaptimeOSL-twitterkonto med login: maptimeosl@gmail.com passord ^
-* 
+* Lasse og Robert har forberedt til QGIS på november-møtet 
+  * Point in polygon og graduerte farger løst basert på Boston Rat map
+  * Graphical Modeler (OSM tags i QGIS)
+
